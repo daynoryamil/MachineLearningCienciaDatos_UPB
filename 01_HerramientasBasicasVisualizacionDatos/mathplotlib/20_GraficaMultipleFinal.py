@@ -4,7 +4,7 @@ Created on Sun Nov 16 18:37:28 2025
 
 @author: daynoryamil
 """
-# múltiples gráficos mejorados sin seaborn
+
 import matplotlib.pyplot as plt
 
 # Ajustar tamaño general + espacio para título global
